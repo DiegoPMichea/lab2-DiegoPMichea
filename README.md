@@ -51,4 +51,4 @@ Dessa filer är de html filer som visar kartorna. De heter:
 - `weather_map_meteo.html`
 - `weather_map_combined.html`
 
-For att visa kartorna, kör `FinalWeather.py` och öppna den html fil som visas i din default webbläsare (om du kör filen i Pycharm, VS code eller liknande, du kan högerklicka på filen och välja "Open with live server" för att öppna den i din default webbläsare).
+For att visa kartorna, kör `FinalWeather.py` och öppna den html fil som visas i din default webbläsare (om du kör filen i Pycharm, VS code eller liknande, du kan högerklicka på filen `weather_map_combined.html` och välja "Open with live server" för att öppna den i din default webbläsare).
